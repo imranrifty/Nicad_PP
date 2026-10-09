@@ -101,6 +101,11 @@ ENGINE=clonepairs2 MODE=compare ./scripts/NiCadInc functions java systems/jhotdr
   `FULL_PCT=off` disables the 80 % rule.
 - **Errors after copying from Windows** (`$'\r': command not found`): run `bash NiCadPP/install.sh` again.
 - **"in use by another run":** a previous run was killed; delete `systems/<name>/.nicad_lock`.
+  
+## Acknowledgments
+
+I would like to express my sincere gratitude to my supervisors, **Dr. Manishankar Mondal** and **Dr. Chanchal K. Roy**, for their invaluable guidance, insightful feedback, and continuous support throughout the development of NiCad++. Their expertise and contributions to the field of software clone detection have been a great source of inspiration for this work. I am deeply grateful for their encouragement and mentorship, which have contributed significantly to the development and refinement of this framework.
+
 
 **Note:** NiCad++ is developed on top of the original NiCad clone detector by Cordy and Roy [1]. It extends NiCad 6.2 with incremental extraction and clone-pair comparison for evolutionary software systems.
 
