@@ -1,4 +1,4 @@
-# NiCad++: An Incremental Clone Detection Framework for Evolutionary Software Systems
+# NiCad++: An Incremental Clone Detector for Evolving Software Systems
 ## Author : Imran Rahman Ifty
 ### Khulna University 
 NiCad++ is a wrapper around NiCad 6.2. It runs NiCad on the first revision, then
