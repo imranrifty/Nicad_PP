@@ -1,6 +1,6 @@
 # NiCad++ — An Incremental Clone Detection tools 
-# Author : Imran Rahman Ifty
-# Khulna University 
+## Author : Imran Rahman Ifty
+### Khulna University 
 NiCad++ is a wrapper around NiCad 6.2. It runs NiCad on the first revision, then
 re-extracts only the changed files and compares only pairs with a new fragment.
 The clone pairs and classes are the same as full NiCad's.
